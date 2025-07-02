@@ -1,4 +1,4 @@
-# reports
+# Reports
 #### This Power BI report provides a high-level summary of current and historical bid activity, with data ingested directly from a SharePoint list. It gives leadership a clear snapshot of bid types, roles, estimated values, and their current status, supporting better visibility and decision-making around sales and resource allocation. 
 ![Current & Historical Bid activity](Historical%20and%20current%20sale%20opportunities.png)
 
